@@ -13,7 +13,7 @@ const Header = ({ logo }) => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      Learn React
+      <button className="btn-React">Haz Click Aqui</button>
     </a>
   </header>
 )

@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-React{
+  color:#282c34;
+  background-color:#61dafb;
+  border-radius: 20px;
+  border:none;
+  font-size: 16px;
+  padding: 10px;
+  font-family: cursive;
+
+}
