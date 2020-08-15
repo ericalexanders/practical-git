@@ -1,4 +1,10 @@
 .content-container {
-  background: brown;
+  background: green;
   min-height: 60px;
+  border-radius: 20px;
+  padding: 10px;
+  color: antiquewhite;
+  box-shadow: 10px 10px 36px 0px rgba(0,0,0,0.75);
+  width: 600px;
+  margin: 10px auto;
 }
